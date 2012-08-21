@@ -1,0 +1,30 @@
+# Dragons den
+
+dragon-levy 53mm x 104mm
+
+usb-liitin: 12.5mm x 16mm
+
+## Reiät (USB vasemmallla):
+
+Mitat lähimmästä reunasta
+
+d=2.5mm
+va: 2.8mm/2.8mm (+1.25mm) 
+vy: 2.8/3.8 (+1.25) x/y
+oa: 20.3/2.8
+oy: 20.3/3.8
+
+
+USB offset: 18.9m alhaalta 20.4mm ylhäältä
+
+## JTAG
+
+offset: 31.45/0.5 
+size: 7x52.5 (liittimien kanssa12.)
+
+## bugit
+
+usb ei ole riittävän syvä, lisää 2mm
+usb on liihan alhaalla lisää 1.5mm
+lisää vcc reikä
+siirrä jtag reikää 1.5mm oikealle
