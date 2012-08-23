@@ -24,10 +24,17 @@ size: 7x52.5 (liittimien kanssa12.)
 
 ## bugit 2012.08.21
 
-usb ei ole riittävän syvä, lisää 2mm
-usb on liihan alhaalla lisää 1.5mm
-lisää vcc reikä
-siirrä jtag reikää 1.5mm oikealle
+  * usb ei ole riittävän syvä, lisää 2mm
+  * usb on liihan alhaalla lisää 1.5mm
+  * lisää vcc reikä
+  * siirrä jtag reikää 1.5mm oikealle
 
 fxd (kai)
 
+## bugit 2012.08.23
+
+  * Ruuvinreiät tiukkoja (voi ajatella myös featurena) mutta näissäkin ilmeisesti viivanleveyden pudotus johti läpimitan pienenemiseen
+  * VCC reikä turhan iso vasemmalla
+  * jtag reikää voisi siirtää millin vielä oikealle
+  * usb-reikää voisi siirtää 0.5mm ylös vielä
+  
