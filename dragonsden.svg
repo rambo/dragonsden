@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="43.539126"
-     inkscape:cy="119.33636"
+     inkscape:zoom="5.6"
+     inkscape:cx="33.451269"
+     inkscape:cy="118.02826"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1448"
      inkscape:window-height="943"
@@ -203,19 +203,18 @@
      id="layer7"
      inkscape:label="side"
      style="display:inline">
-    <rect
-       y="18.073383"
-       x="17.364723"
-       height="187.79025"
-       width="368.4989"
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.71369511;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+       d="m 0.46875,137.1875 16.90625,0 0,68.6875 368.5,0 0,-187.8125 -368.5,0 0,70.46875 -16.90625,0"
        id="rect3890"
-       style="fill:none;stroke:#000000;stroke-width:0.71369511;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="top holes"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-829.13384)">
     <g
        style="display:none"
