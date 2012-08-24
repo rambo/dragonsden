@@ -36,5 +36,5 @@ fxd (kai)
   * Ruuvinreiät tiukkoja (voi ajatella myös featurena) mutta näissäkin ilmeisesti viivanleveyden pudotus johti läpimitan pienenemiseen
   * VCC reikä turhan iso vasemmalla
   * jtag reikää voisi siirtää millin vielä oikealle
-  * usb-reikää voisi siirtää 0.5mm ylös vielä
+  * usb-reikää voisi siirtää 0.5mm ylös vielä (done)
   
