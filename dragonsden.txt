@@ -37,4 +37,6 @@ fxd (kai)
   * VCC reikä turhan iso vasemmalla
   * jtag reikää voisi siirtää millin vielä oikealle
   * usb-reikää voisi siirtää 0.5mm ylös vielä (done)
-  
+  * ruuvinreiät on offsetissä, ~1mm ylös ja oikealle (ja kun korjaa nämä niin se USB-reikä on sitten liikaa ylhäällä...
+
+
